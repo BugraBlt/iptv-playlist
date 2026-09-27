@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT1 4K ( HEVC )" tvg-logo="https://i.ibb.co/w75gVXp/trt1.png" group-title="Ulusal Kanallar",TR: TRT1 4K ( HEVC )
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/119037
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TRT1 UHD" tvg-logo="https://i.ibb.co/w75gVXp/trt1.png" group-title="Ulusal Kanallar",TR: TRT1 UHD
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/839
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT1 HD" tvg-logo="https://i.ibb.co/w75gVXp/trt1.png" group-title="Ulusal Kanallar",TR: TRT1 HD
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/125
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TRT 4K" tvg-logo="https://i.ibb.co/hc704dp/trt4k.png" group-title="Ulusal Kanallar",TR: TRT 4K
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/6909
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANAL D 4K ( HEVC )" tvg-logo="https://i.ibb.co/Hd9L3hj/kanaldhh.png" group-title="Ulusal Kanallar",TR: KANAL D 4K ( HEVC )
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/119034
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: KANAL D UHD" tvg-logo="https://i.ibb.co/Hd9L3hj/kanaldhh.png" group-title="Ulusal Kanallar",TR: KANAL D UHD
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/843
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANAL D HD" tvg-logo="https://i.ibb.co/Hd9L3hj/kanaldhh.png" group-title="Ulusal Kanallar",TR: KANAL D HD
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/135
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV 4K ( HEVC )" tvg-logo="https://i.ibb.co/5kXd9Cv/atv.png" group-title="Ulusal Kanallar",TR: ATV 4K ( HEVC )
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/119031
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: ATV UHD" tvg-logo="https://i.ibb.co/5kXd9Cv/atv.png" group-title="Ulusal Kanallar",TR: ATV UHD
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/840
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV HD" tvg-logo="https://i.ibb.co/5kXd9Cv/atv.png" group-title="Ulusal Kanallar",TR: ATV HD
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/133
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TV 4K ( HEVC )" tvg-logo="https://i.ibb.co/xG9ZWCD/show.png" group-title="Ulusal Kanallar",TR: SHOW TV 4K ( HEVC )
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/119032
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: SHOW TV UHD" tvg-logo="https://i.ibb.co/xG9ZWCD/show.png" group-title="Ulusal Kanallar",TR: SHOW TV UHD
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/841
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TV HD" tvg-logo="https://i.ibb.co/xG9ZWCD/show.png" group-title="Ulusal Kanallar",TR: SHOW TV HD
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/134
+#EXTINF:-1 tvg-id="now.tr" tvg-name="TR: NOW TV 4K ( HEVC )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/512px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" group-title="Ulusal Kanallar",TR: NOW TV 4K ( HEVC )
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/119035
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: NOW TV UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/512px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" group-title="Ulusal Kanallar",TR: NOW TV UHD
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/844
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: NOW TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/512px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" group-title="Ulusal Kanallar",TR: NOW TV HD
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/137
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR TV 4K ( HEVC )" tvg-logo="https://i.ibb.co/KhNmMb1/star.png" group-title="Ulusal Kanallar",TR: STAR TV 4K ( HEVC )
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/119033
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: STAR TV UHD" tvg-logo="https://i.ibb.co/KhNmMb1/star.png" group-title="Ulusal Kanallar",TR: STAR TV UHD
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/842
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR TV HD" tvg-logo="https://i.ibb.co/KhNmMb1/star.png" group-title="Ulusal Kanallar",TR: STAR TV HD
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/136
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL7 4K ( HEVC )" tvg-logo="https://i.ibb.co/bmYPwh6/kanal7.png" group-title="Ulusal Kanallar",TR: KANAL7 4K ( HEVC )
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/119043
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="TR: KANAL7 UHD" tvg-logo="https://i.ibb.co/bmYPwh6/kanal7.png" group-title="Ulusal Kanallar",TR: KANAL7 UHD
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/847
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL7 HD" tvg-logo="https://i.ibb.co/bmYPwh6/kanal7.png" group-title="Ulusal Kanallar",TR: KANAL7 HD
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/129
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR: TV8 4K ( HEVC )" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/TV8_250x150.png" group-title="Ulusal Kanallar",TR: TV8 4K ( HEVC )
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/119036
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TV8 UHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/TV8_250x150.png" group-title="Ulusal Kanallar",TR: TV8 UHD
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/845
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR: TV8 HD" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/TV8_250x150.png" group-title="Ulusal Kanallar",TR: TV8 HD
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/130
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR: TV8.5 4K ( HEVC )" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/250x150-tv8-5.png" group-title="Ulusal Kanallar",TR: TV8.5 4K ( HEVC )
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/119044
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TR: TV8.5 UHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/250x150-tv8-5.png" group-title="Ulusal Kanallar",TR: TV8.5 UHD
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/846
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR: TV8.5 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/250x150-tv8-5.png" group-title="Ulusal Kanallar",TR: TV8.5 HD
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/131
+#EXTINF:-1 tvg-id="szc.tr" tvg-name="TR: SOZCU TV UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="Haber Kanalları",TR: SOZCU TV UHD
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/61622
+#EXTINF:-1 tvg-id="CNBCEurope.uk" tvg-name="TR: CNBC-e HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/ca/CNBC-e_logosu.png" group-title="Haber Kanalları",TR: CNBC-e HD
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/98333
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR: 360 TV 4K ( HEVC )" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/360_250x150.png" group-title="Ulusal Kanallar",TR: 360 TV 4K ( HEVC )
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/119040
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR: 360 TV HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/360_250x150.png" group-title="Ulusal Kanallar",TR: 360 TV HD
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/138
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="TR: CNN TURK UHD" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster//20211228334898.png" group-title="Haber Kanalları",TR: CNN TURK UHD
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/857
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: CNN TURK HD" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster//20211228334898.png" group-title="Haber Kanalları",TR: CNN TURK HD
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/157
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="TR: NTV UHD" tvg-logo="https://i.ibb.co/0y3vgzb/ntv.png" group-title="Haber Kanalları",TR: NTV UHD
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/858
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: NTV HD" tvg-logo="https://i.ibb.co/0y3vgzb/ntv.png" group-title="Haber Kanalları",TR: NTV HD
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/155
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TR: TRT HABER UHD" tvg-logo="https://i.ibb.co/jhL2zmz/trthaber.png" group-title="Haber Kanalları",TR: TRT HABER UHD
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/861
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="TR: A HABER UHD" tvg-logo="https://i.ibb.co/P9qF7jH/ahaber.png" group-title="Haber Kanalları",TR: A HABER UHD
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/854
