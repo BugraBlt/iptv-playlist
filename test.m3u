@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="TRT 1 HD" group-title="Test",TRT 1 HD
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/125
+#EXTINF:-1 tvg-name="Kanal D HD" group-title="Test",Kanal D HD
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/135
+#EXTINF:-1 tvg-name="ATV HD" group-title="Test",ATV HD
+http://panel.santraiptv.live:8080/bugrabulutt/bugi5858/133
