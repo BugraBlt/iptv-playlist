@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT1 HD" tvg-logo="https://i.ibb.co/w75gVXp/trt1.png" group-title="Ulusal Kanallar",TR: TRT1 HD
+http://panel.santraiptv.live:8080/live/bugrabulutt/bugi5858/125.m3u8
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TRT 4K" tvg-logo="https://i.ibb.co/hc704dp/trt4k.png" group-title="Ulusal Kanallar",TR: TRT 4K
+http://panel.santraiptv.live:8080/live/bugrabulutt/bugi5858/6909.m3u8
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANAL D HD" tvg-logo="https://i.ibb.co/Hd9L3hj/kanaldhh.png" group-title="Ulusal Kanallar",TR: KANAL D HD
+http://panel.santraiptv.live:8080/live/bugrabulutt/bugi5858/135.m3u8
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV HD" tvg-logo="https://i.ibb.co/5kXd9Cv/atv.png" group-title="Ulusal Kanallar",TR: ATV HD
+http://panel.santraiptv.live:8080/live/bugrabulutt/bugi5858/133.m3u8
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TV HD" tvg-logo="https://i.ibb.co/xG9ZWCD/show.png" group-title="Ulusal Kanallar",TR: SHOW TV HD
+http://panel.santraiptv.live:8080/live/bugrabulutt/bugi5858/134.m3u8
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: NOW  TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/512px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" group-title="Ulusal Kanallar",TR: NOW  TV HD
+http://panel.santraiptv.live:8080/live/bugrabulutt/bugi5858/137.m3u8
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR TV HD" tvg-logo="https://i.ibb.co/KhNmMb1/star.png" group-title="Ulusal Kanallar",TR: STAR TV HD
+http://panel.santraiptv.live:8080/live/bugrabulutt/bugi5858/136.m3u8
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL7 HD" tvg-logo="https://i.ibb.co/bmYPwh6/kanal7.png" group-title="Ulusal Kanallar",TR: KANAL7 HD
+http://panel.santraiptv.live:8080/live/bugrabulutt/bugi5858/129.m3u8
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR: TV8 HD" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/TV8_250x150.png" group-title="Ulusal Kanallar",TR: TV8 HD
+http://panel.santraiptv.live:8080/live/bugrabulutt/bugi5858/130.m3u8
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR: TV8.5 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/250x150-tv8-5.png" group-title="Ulusal Kanallar",TR: TV8.5 HD
+http://panel.santraiptv.live:8080/live/bugrabulutt/bugi5858/131.m3u8
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR: 360 TV HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/360_250x150.png" group-title="Ulusal Kanallar",TR: 360 TV HD
+http://panel.santraiptv.live:8080/live/bugrabulutt/bugi5858/138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:EKOL TV HD" tvg-logo="https://yt3.googleusercontent.com/t_LBbSpJGM0W-NI9GXAX-5Cmgou4_pIrYGyyFTRPRAx7v99_7PxsJOp86pzd0GuotLRjDV0uJQ=s160-c-k-c0x00ffffff-no-rj" group-title="Ulusal Kanallar",TR:EKOL TV HD
+http://panel.santraiptv.live:8080/live/bugrabulutt/bugi5858/102702.m3u8
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR: BEYAZ TV HD" tvg-logo="https://i.ibb.co/42FQwtx/beyazzz.png" group-title="Ulusal Kanallar",TR: BEYAZ TV HD
+http://panel.santraiptv.live:8080/live/bugrabulutt/bugi5858/128.m3u8
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-name="TR: TEVE2 HD" tvg-logo="https://i.ibb.co/x7TFHrF/teve2.png" group-title="Ulusal Kanallar",TR: TEVE2 HD
+http://panel.santraiptv.live:8080/live/bugrabulutt/bugi5858/139.m3u8
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="TR: A2 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/a2_250x150.png" group-title="Ulusal Kanallar",TR: A2 HD
+http://panel.santraiptv.live:8080/live/bugrabulutt/bugi5858/132.m3u8
+#EXTINF:-1 tvg-id="trt2.tr" tvg-name="TR: TRT2 HD" tvg-logo="https://i.ibb.co/WKXSwL8/trt2.png" group-title="Ulusal Kanallar",TR: TRT2 HD
+http://panel.santraiptv.live:8080/live/bugrabulutt/bugi5858/126.m3u8
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TRT AVAZ HD" tvg-logo="https://i.ibb.co/7vdWcBr/trtavaz.png" group-title="Ulusal Kanallar",TR: TRT AVAZ HD
+http://panel.santraiptv.live:8080/live/bugrabulutt/bugi5858/54093.m3u8
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: EURO D" tvg-logo="https://i.ibb.co/z8FVsgG/euro.png" group-title="Ulusal Kanallar",TR: EURO D
+http://panel.santraiptv.live:8080/live/bugrabulutt/bugi5858/54081.m3u8
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: ATV EU" tvg-logo="https://i.ibb.co/4tqxj6K/atveu.png" group-title="Ulusal Kanallar",TR: ATV EU
+http://panel.santraiptv.live:8080/live/bugrabulutt/bugi5858/32968.m3u8
+#EXTINF:-1 tvg-id="showmax.tr" tvg-name="TR: SHOW MAX" tvg-logo="https://i.ibb.co/w7jzbRw/showmax.png" group-title="Ulusal Kanallar",TR: SHOW MAX
+http://panel.santraiptv.live:8080/live/bugrabulutt/bugi5858/54082.m3u8
+#EXTINF:-1 tvg-id="EuroStar.tr" tvg-name="TR: EURO STAR" tvg-logo="https://i.ibb.co/XJLCy7P/stareu.png" group-title="Ulusal Kanallar",TR: EURO STAR
+http://panel.santraiptv.live:8080/live/bugrabulutt/bugi5858/32969.m3u8
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL7 AVRUPA" tvg-logo="https://i.ibb.co/JCRrsvz/kanal7eu.png" group-title="Ulusal Kanallar",TR: KANAL7 AVRUPA
+http://panel.santraiptv.live:8080/live/bugrabulutt/bugi5858/32967.m3u8
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BeınSports1 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="Beın Sport",TR: BeınSports1 HD
+http://panel.santraiptv.live:8080/live/bugrabulutt/bugi5858/114039.m3u8
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: BeınSports2 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport2_250x150_2022.png" group-title="Beın Sport",TR: BeınSports2 HD
+http://panel.santraiptv.live:8080/live/bugrabulutt/bugi5858/114042.m3u8
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: BeınSports3 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport3_250x150_2022.png" group-title="Beın Sport",TR: BeınSports3 HD
+http://panel.santraiptv.live:8080/live/bugrabulutt/bugi5858/114044.m3u8
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: BeınSports4 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport4_250x150_2022.png" group-title="Beın Sport",TR: BeınSports4 HD
+http://panel.santraiptv.live:8080/live/bugrabulutt/bugi5858/114046.m3u8
+#EXTINF:-1 tvg-id="beinsports5.tr" tvg-name="TR: BeınSports5 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/beIN_SPORTS5_250x150.png" group-title="Beın Sport",TR: BeınSports5 HD
+http://panel.santraiptv.live:8080/live/bugrabulutt/bugi5858/114048.m3u8
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="TR: BeınSports Max1 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w3_Sport_Max1_250x150_2022.png" group-title="Beın Sport",TR: BeınSports Max1 HD
+http://panel.santraiptv.live:8080/live/bugrabulutt/bugi5858/114050.m3u8
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="TR: BeınSports Max2 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w3_Sport_Max2_250x150_2022.png" group-title="Beın Sport",TR: BeınSports Max2 HD
+http://panel.santraiptv.live:8080/live/bugrabulutt/bugi5858/114052.m3u8
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="TR: BeınSports Haber HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/bein_sports_yeni_HABER_250x150_.png" group-title="Beın Sport",TR: BeınSports Haber HD
+http://panel.santraiptv.live:8080/live/bugrabulutt/bugi5858/114054.m3u8
